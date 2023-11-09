@@ -9,7 +9,7 @@ https://codesandbox.io/p/sandbox/peaceful-napier-cqxqtr?file=%2Findex.js%3A30%2C
 
 Express sample https://github.com/sergiuchilat/node-express-crud/blob/master/src/database/index.js
 
-NestJS sample https://github.com/sergiuchilat/nestjs-crud https://github.com/USARB-WEB/express-sample-2023
+NestJS sample https://github.com/sergiuchilat/nestjs-crud https://github.com/sergiuchilat/nest-project-template
 
 NodeMon for watching changes and autorestart server https://www.npmjs.com/package/nodemon
 
